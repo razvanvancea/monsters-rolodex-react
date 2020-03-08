@@ -1,4 +1,5 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+React project. It shows a list of cards, created using react components and routing.
+
 
 ## Available Scripts
 
